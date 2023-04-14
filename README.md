@@ -70,12 +70,12 @@ The goal of this project is to apply servlet, jsp and Hibernate concepts.
 •	To login you must enter root for username and user for password.
 
 ## Screenshots:
-![image](screenshots\Login_screen.png)
-![image](screenshots\Add_Class.png)
-![image](screenshots\Class_Listing.png)
-![image](screenshots\Assign_Teacher_and_subject.png)
-![image](screenshots\add_student.png)
-![image](screenshots\student_listing.png)
+![image](screenshots/Login_screen.png)
+![image](screenshots/Add_Class.png)
+![image](screenshots/Class_Listing.png)
+![image](screenshots/Assign_Teacher_and_subject.png)
+![image](screenshots/add_student.png)
+![image](screenshots/student_listing.png)
 
 
 
