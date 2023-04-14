@@ -33,7 +33,7 @@ The goal of this project is to apply servlet, jsp and Hibernate concepts.
 
 ## Flowcharts of The Application
 
-![image](screenshots\app_flowchart.png)
+![image](screenshots/app_flowchart.png)
 
 
 ## Core concepts used in the project. 
